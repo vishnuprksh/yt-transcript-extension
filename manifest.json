@@ -1,0 +1,16 @@
+{
+    "manifest_version": 3,
+    "name": "YT Transcript Opener",
+    "version": "1.0",
+    "description": "Opens yt-transcript.streamlit.app in a new tab.",
+    "permissions": ["tabs"],
+    "action": {
+      "default_popup": "popup.html",
+      "default_icon": {
+        "16": "omnivore.png",
+        "48": "omnivore.png",
+        "128": "omnivore.png"
+      }
+    }
+  }
+  
